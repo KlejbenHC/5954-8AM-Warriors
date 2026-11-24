@@ -7,6 +7,6 @@ What the project covers
 Main takeaway
 Individual audio features have weak relationships with popularity. Combining them improved the identification of popular tracks in preliminary testing, but the results do not yet establish reliable predictions of future hits or justify signing decisions on their own.
 
-This repository contains the analysis code and this README. The dataset and presentation are not included.
+This repository contains the analysis code, the dataset, and this README.
 Team
 8AM Warriors: Klejben Hysenbelli, Melinda Lin, Andrew Chung, and Fiona Huang.
